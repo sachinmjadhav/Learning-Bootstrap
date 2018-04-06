@@ -1,0 +1,21 @@
+.text-teal {
+    color: #00796b;
+}
+
+#top-button {
+    margin-top: -110px;
+}
+
+#card-id {
+    margin-top: -100px;
+}
+
+#developer-card:hover {
+    background-color: #00796b;
+    color: #fff;
+    cursor: pointer;
+}
+
+#developer-card:hover  .whiter {
+    color: #fff;
+}
